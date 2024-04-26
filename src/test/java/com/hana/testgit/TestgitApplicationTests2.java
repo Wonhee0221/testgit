@@ -11,6 +11,8 @@ class TestgitApplicationTests2 {
         int a;
         int b;
         int c;
+        int aa;
+
     }
 
 }
