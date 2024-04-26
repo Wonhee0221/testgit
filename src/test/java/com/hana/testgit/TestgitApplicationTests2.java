@@ -10,6 +10,7 @@ class TestgitApplicationTests2 {
     void contextLoads() {
         int a;
         int b;
+        int c;
     }
 
 }
